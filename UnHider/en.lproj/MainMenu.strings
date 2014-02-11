@@ -1,0 +1,30 @@
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "UnHider"; ObjectID = "56"; */
+"56.title" = "UnHider";
+
+/* Class = "NSMenu"; title = "UnHider"; ObjectID = "57"; */
+"57.title" = "UnHider";
+
+/* Class = "NSMenuItem"; title = "About UnHider"; ObjectID = "58"; */
+"58.title" = "About UnHider";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"129.title" = "Preferences…";
+
+/* Class = "NSMenuItem"; title = "Quit UnHider"; ObjectID = "136"; */
+"136.title" = "Quit UnHider";
+
+/* Class = "NSWindow"; title = "About"; ObjectID = "523-ky-ElY"; */
+"523-ky-ElY.title" = "About";
+
+/* Class = "NSTextFieldCell"; title = "UnHider 1.0"; ObjectID = "XlN-KH-TDF"; */
+"XlN-KH-TDF.title" = "UnHider 1.0";
+
+/* Class = "NSTextFieldCell"; title = "Icon Template by: icons8.com"; ObjectID = "aqy-Uo-dFo"; */
+"aqy-Uo-dFo.title" = "Icon Template by: icons8.com";
+
+/* Class = "NSTextFieldCell"; title = "© 2013 Benjamin Marten"; ObjectID = "i58-OF-O89"; */
+"i58-OF-O89.title" = "© 2013 Benjamin Marten";

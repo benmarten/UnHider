@@ -1,0 +1,10 @@
+/* 
+  Localization.strings
+  UnHider
+
+  Created by Benjamin Marten on 03.11.13.
+  Copyright (c) 2013 Benjamin Marten. All rights reserved.
+*/
+"About UnHider" = "Über UnHider";
+"Start on System Startup" = "Beim Systemstart starten";
+"Quit UnHider" = "UnHider beenden";
